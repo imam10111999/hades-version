@@ -1,4 +1,17 @@
 {
-    "hades-ped": "4.5",
-    "hades-bag-ems": "2.5",
+    "ggwpx-ped": "4.5",
+    "ggwpx-bag-ems": "2.5",
+    "ggwpx-warehouse": "1.5",
+    "ggwpx-npccedic": "4.0",
+    "ggwpx-nitrous": "2.0",
+    "ggwpx-sit": "3.0",
+    "ggwpx-carry": "3.0",
+    "ggwpx-garagejob": "3.0",
+    "ggwpx-smoking": "3.0",
+    "ggwpx-point": "3.0",
+    "ggwpx-cityhall": "3.0",
+    "ggwpx-projector": "3.0",
+    "ggwpx-slapweapon": "3.0",
+    "ggwpx-starterpack": "4.0",
+    "ggwpx-condition": "2.5"
 }
